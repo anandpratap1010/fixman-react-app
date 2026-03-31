@@ -1,4 +1,5 @@
 import BlogList from "./pages/BlogList";
+import ChatButton from "./components/ChatButton";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 
@@ -10,6 +11,7 @@ export default function App() {
         <BlogList />
       </main>
       <Footer />
+      <ChatButton />
     </div>
   );
 }

@@ -3,42 +3,42 @@
     "id": 1,
     "title": "Furniture Assembly Services",
     "category": "Top Rated",
-    "description": "We assemble beds, dressers, wardrobes, desks, dining tables, office furniture, and more.",
+    "description": "We assemble beds, dressers, wardrobes, desks, dining tables, office furniture, and more. Every piece is aligned correctly, secured safely, and ready for everyday use.",
     "image": "../assets/1.png"
   },
   {
     "id": 2,
     "title": "TV Mounting and Home Entertainment Setup",
     "category": "Top Rated",
-    "description": "Our technicians mount TVs securely on drywall or concrete walls and conceal cables neatly.",
+    "description": "Our technicians mount TVs securely on drywall or concrete walls, conceal cables neatly, and install sound systems for a clean, modern look.",
     "image": "../assets/2.png"
   },
   {
     "id": 3,
     "title": "Fitness Equipment Assembly",
     "category": "New",
-    "description": "From treadmills to home gyms and exercise bikes, we ensure your equipment is assembled properly.",
+    "description": "From treadmills to home gyms and exercise bikes, we ensure your equipment is assembled properly and tested for safety and performance.",
     "image": "../assets/3.png"
   },
   {
     "id": 4,
     "title": "Outdoor and Patio Installation",
     "category": "Popular",
-    "description": "We assemble patio furniture, gazebos, pergolas, grills, sheds, and outdoor playsets with care.",
+    "description": "We assemble patio furniture, gazebos, pergolas, grills, sheds, and outdoor playsets with careful attention to stability and durability.",
     "image": "../assets/4.png"
   },
   {
     "id": 5,
     "title": "Smart Home Device Installation",
     "category": "Featured",
-    "description": "Smart technology works best when everything connects seamlessly for effortless lifestyle control.",
+    "description": "Smart technology works best when everything connects seamlessly. Expert setup ensures devices are configured correctly so your home responds effortlessly to your lifestyle.",
     "image": "../assets/5.png"
   },
   {
     "id": 6,
     "title": "Fixture and Light Installation",
     "category": "Featured",
-    "description": "Ceiling fans, curtain rods, wall shelves, and light fixtures installed securely for function and design.",
+    "description": "Ceiling fans, curtain rods, wall shelves, and light fixtures are installed securely to improve both functionality and design.",
     "image": "../assets/6.png"
   }
 ]
