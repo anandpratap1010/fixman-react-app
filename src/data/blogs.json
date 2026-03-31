@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Furniture Assembly Services",
+    "category": "Top Rated",
+    "description": "We assemble beds, dressers, wardrobes, desks, dining tables, office furniture, and more.",
+    "image": "../assets/1.png"
+  },
+  {
+    "id": 2,
+    "title": "TV Mounting and Home Entertainment Setup",
+    "category": "Top Rated",
+    "description": "Our technicians mount TVs securely on drywall or concrete walls and conceal cables neatly.",
+    "image": "../assets/2.png"
+  },
+  {
+    "id": 3,
+    "title": "Fitness Equipment Assembly",
+    "category": "New",
+    "description": "From treadmills to home gyms and exercise bikes, we ensure your equipment is assembled properly.",
+    "image": "../assets/3.png"
+  },
+  {
+    "id": 4,
+    "title": "Outdoor and Patio Installation",
+    "category": "Popular",
+    "description": "We assemble patio furniture, gazebos, pergolas, grills, sheds, and outdoor playsets with care.",
+    "image": "../assets/4.png"
+  },
+  {
+    "id": 5,
+    "title": "Smart Home Device Installation",
+    "category": "Featured",
+    "description": "Smart technology works best when everything connects seamlessly for effortless lifestyle control.",
+    "image": "../assets/5.png"
+  },
+  {
+    "id": 6,
+    "title": "Fixture and Light Installation",
+    "category": "Featured",
+    "description": "Ceiling fans, curtain rods, wall shelves, and light fixtures installed securely for function and design.",
+    "image": "../assets/6.png"
+  }
+]
